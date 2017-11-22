@@ -10,5 +10,11 @@
             "name": "连友",
             "email": "ofzt@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flower\\Rose\\": "src/Flower/Rose",
+            "Flower\\Lily\\": "src/Flower/Lily"
+        }
+    }
 }
