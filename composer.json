@@ -1,0 +1,14 @@
+{
+    "name": "lianyou/hello_world",
+    "description": "this is a test demo",
+    "type": "project",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "连友",
+            "email": "ofzt@qq.com"
+        }
+    ]
+}
