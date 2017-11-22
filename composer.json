@@ -2,6 +2,7 @@
     "name": "lianyou/hello_world",
     "description": "this is a test demo",
     "type": "project",
+    "license": "MIT",
     "require": {
         "php": ">=5.6"
     },
