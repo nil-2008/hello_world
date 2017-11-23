@@ -1,21 +1,12 @@
 {
     "name": "lianyou/hello_world",
-    "description": "this is a test demo",
-    "type": "project",
+    "description": "this is a hello world repo for composer",
     "license": "MIT",
-    "require": {
-        "php": ">=5.6"
-    },
+    "require": {},
     "authors": [
         {
             "name": "连友",
             "email": "ofzt@qq.com"
         }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Flower\\Rose\\": "src/Flower/Rose",
-            "Flower\\Lily\\": "src/Flower/Lily"
-        }
-    }
+    ]
 }
