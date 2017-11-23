@@ -2,11 +2,16 @@
     "name": "lianyou/hello_world",
     "description": "this is a hello world repo for composer",
     "license": "MIT",
-    "require": {},
     "authors": [
         {
             "name": "连友",
             "email": "ofzt@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lianyou\\Demo\\": "src"
+        }
+    },
+    "require": {}
 }
